@@ -1,0 +1,21 @@
+.container {
+    width: 34px;
+    height: 34px;
+    position: absolute;
+    border-radius: 17px;
+    font-size: 20px;
+    font-family: '微软雅黑', serif;
+    line-height: 34px;
+    text-align: center;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.white {
+    background-color: white;
+    color: black;
+}
+

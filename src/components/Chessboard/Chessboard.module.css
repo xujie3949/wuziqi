@@ -1,0 +1,6 @@
+.container {
+    width: 535px;
+    height: 535px;
+    position: relative;
+    background: url('../../images/chessboard.jpg') no-repeat;
+}
