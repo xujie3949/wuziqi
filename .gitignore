@@ -42,6 +42,9 @@ typings/
 # WebStorm Project File
 /.idea
 
+# build directories
+/build
+
 # Optional npm cache directory
 .npm
 
